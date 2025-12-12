@@ -1,0 +1,5 @@
+{
+  "name": "VERITAS",
+  "description": "A forensic analysis dashboard using Gemini 3 Pro to detect image/video manipulation and inconsistencies.",
+  "requestFramePermissions": []
+}
